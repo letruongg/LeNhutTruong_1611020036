@@ -11,5 +11,8 @@ Kinh Nghiệm  | Chưa Có
 --------------------------
 
 [ Facebook ](https://www.facebook.com/bin.su.1650) 
+--------------------------
 [ Youtube ]( https://www.youtube.com/channel/UCEXHOrbu9qqwn4FMyRz15ww?view_as=subscriber)
+--------------------------
 [Dự án ](https://github.com/letruongg/1611020036LeNhuttruong)
+--------------------------
