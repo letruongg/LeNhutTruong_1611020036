@@ -5,6 +5,6 @@
 ## Hệ Đại Học
 ## CNTT - Thiết Kế Web
 ## Kinh Nghiệm chưa có 
-[ Địa Chỉ ](https://www.facebook.com/bin.su.1650) 
+[ Facebook ](https://www.facebook.com/bin.su.1650) 
 
-[ Link ](https://github.com/letruongg/HPmarkdow)
+[Dự án ](https://github.com/letruongg/HPmarkdow)
